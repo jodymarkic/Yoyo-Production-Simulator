@@ -1,0 +1,33 @@
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\bin\Debug\BI_A02.exe.config
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\bin\Debug\BI_A02.exe
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\bin\Debug\BI_A02.pdb
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.myForm.resources
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.Properties.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.exe
+C:\Users\Public\Documents\Visual Studio 2017\Projects\BI_A02\BI_A02\obj\Debug\BI_A02.pdb
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.exe.config
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.exe
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.pdb
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.csprojResolveAssemblyReference.cache
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.myForm.resources
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.Properties.Resources.resources
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.csproj.GenerateResource.Cache
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.csproj.CoreCompileInputs.cache
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.exe
+C:\Users\jmarkic8674\Desktop\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.pdb
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.exe.config
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.exe
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.pdb
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.csprojResolveAssemblyReference.cache
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.myForm.resources
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.Properties.Resources.resources
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.csproj.GenerateResource.Cache
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.csproj.CoreCompileInputs.cache
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.exe
+E:\Conestoga\Year 3\Uncategorized\BI_A02\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.pdb
+D:\Year 3\BI\BI_A02\BI_A02\BI_A02\bin\Debug\BI_A02.exe.config
+D:\Year 3\BI\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.exe
+D:\Year 3\BI\BI_A02\BI_A02\BI_A02\obj\Debug\BI_A02.pdb

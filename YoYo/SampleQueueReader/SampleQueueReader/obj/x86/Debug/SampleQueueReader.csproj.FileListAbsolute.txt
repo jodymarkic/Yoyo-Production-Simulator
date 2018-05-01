@@ -1,0 +1,17 @@
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.pdb
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.frmMain.resources
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.Properties.Resources.resources
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.exe
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.pdb
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.exe
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.pdb
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.pdb
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.frmMain.resources
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.Properties.Resources.resources
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Norbert\Desktop\MyFiles\SETAdvSQL\Project\NewestYoYO\SampleQueueReader\SampleQueueReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.csproj.GenerateResource.Cache
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.csproj.CoreCompileInputs.cache
